@@ -1,0 +1,223 @@
+body {
+    margin: 0;
+  }
+  
+  body .index1 .box {
+    background-color: #efccc5;;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+  }
+  
+  body .index1 .box .navv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  body .index1 .box .navv a {
+    font-size: 30px;
+    color: #232267;
+    text-decoration: none;
+  }
+
+  body .index2 .box {
+    background-color:#efccc5;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+  }
+  
+  body .index2 .box .header {
+    width: 1200px;
+    height: 200px;
+    background-color: #dab9aa;
+  }
+  
+  body .index2 .box .header .navv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  body .index2 .box .header .navv a {
+    font-size: 30px;
+    color: #232267;
+    text-decoration: none;
+  }
+  
+  body .index2 .box .content {
+    padding: 0 100px;
+    height: 600px;
+  }
+  
+  body .index2 .box .content .cc {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  body .index2 .box .content .cc .wen {
+    width: 500px;
+    font-size: 20px;
+  }
+  
+  body .index2 .box .footer {
+    width: 1200px;
+    height: 100px;
+    background-color: #dab9aa;
+  }
+  
+  body .index3 .box {
+    background-color:#efccc5;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+    display: flex;
+  }
+  
+  body .index3 .box .left {
+    width: 350px;
+    height: 900px;
+    background-color:#dab9aa;
+  }
+  
+  body .index3 .box .left .navv {
+    margin-left: 30px;
+    padding-top: 20px;
+  }
+  
+  body .index3 .box .left .navv a {
+    margin-top: 30px;
+    display: block;
+    font-size: 30px;
+    color: #232267;
+    text-decoration: none;
+    text-align: center;
+  }
+
+  body .index4 .box {
+    background-color:#efccc5;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+  }
+  
+  body .index4 .box .header {
+    width: 1200px;
+    height: 200px;
+    background-color: #dab9aa;
+  }
+  
+  body .index4 .box .header .navv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  body .index4 .box .header .navv a {
+    font-size: 30px;
+    color:#232267;
+    text-decoration: none;
+  }
+  
+  body .index4 .box .content {
+    height: 600px;
+    display: flex;
+  }
+  
+  body .index4 .box .content .left {
+    width: 350px;
+    height: 600px;
+    background-color: #c89293;
+  }
+
+  body .index4 .box .content .right {
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+
+  body .index4 .box .footer {
+    width: 1200px;
+    height: 100px;
+    background-color:#dab9aa;
+  }
+  
+  body .index5 .box {
+    background-color:#efccc5;
+    margin: 0 auto;
+    width: 1200px;
+    height: 900px;
+  }
+  
+  body .index5 .box .header {
+    width: 1200px;
+    height: 200px;
+    background-color: #dab9aa;
+  }
+  
+  body .index5 .box .header .navv {
+    padding-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  body .index5 .box .header .navv a {
+    font-size: 30px;
+    color: #232267;
+    text-decoration: none;
+  }
+  
+  body .index5 .box .nav {
+    width: 1200px;
+    height: 100px;
+    background-color:#c59390;
+  }
+  
+  body .index5 .box .nav .title {
+    margin-left: 100px;
+    padding-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  body .index5 .box .content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    height: 500px;
+  }
+  
+  body .index5 .box .content .left {
+    width: 350px;
+    height: 500px;
+    background-color: #d0b0b1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  body .index5 .box .content .right {
+    width: 350px;
+    height: 500px;
+    background-color: #d0b0b1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  body .index5 .box .footer {
+    width: 1200px;
+    height: 100px;
+    background-color: #dab9aa;
+  }
+  
+  body .index5 .box .footer .wen {
+    padding: 20px 50px 0;
+    font-size: 20px;
+  }
